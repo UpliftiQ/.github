@@ -116,7 +116,7 @@ Twice a year we publish a public report covering accessibility metrics, ISL cont
 
 ## Why We Build This
 
-India has 18 million Deaf citizens and almost none of them have access to learning content in their own language. Existing platforms treat Indian Sign Language as an afterthought. A captioning toggle. A translation overlay.
+India has 63 million Deaf citizens and almost none of them have access to learning content in their own language. Existing platforms treat Indian Sign Language as an afterthought. A captioning toggle. A translation overlay.
 
 We are building the platform we wish existed. ISL first. Deaf led. Built around how visual learners actually think.
 
