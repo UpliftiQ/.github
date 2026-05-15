@@ -7,7 +7,7 @@
 ### Education that signs back.
 
 **India's first Indian Sign Language first learning platform**
-Built for 18 million Deaf and hard of hearing Indians.
+Built for 63 million Deaf and hard of hearing Indians.
 Starting with India. Scaling to the world.
 
 [![Website](https://img.shields.io/badge/Website-upliftiq.in-00C853?style=flat-square&logo=google-chrome&logoColor=white)](https://upliftiq.in)
@@ -31,7 +31,7 @@ UpliftiQ is a complete learning ecosystem designed from the ground up for Deaf a
 
 ## The Problem
 
-18 million Deaf and hard of hearing people live in India.
+63 million Deaf and hard of hearing people live in India.
 Less than 1% receive education in Indian Sign Language.
 Existing platforms treat accessibility as a feature toggle.
 No platform has ever been built ISL first for Indian learners.
